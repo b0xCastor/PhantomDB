@@ -1,5 +1,6 @@
 # PhantomDB
-PhantomDB 👻 : Is batch software that will allow you to find information about a person based on their ID. If you don't have a database, the software will be of no use. Need databases? add: b_0xcastor on discord 
+PhantomDB 👻 : Is batch software that will allow you to find information about a person based on their ID. If you don't have a database, the software will be of no use. Need databases? add: b_0xcastor on discord
+
 <br>
 I specify that I am not professional and that I could be wrong, I recommend using this software with kindness and not using it to harm anyone
 <hr>
