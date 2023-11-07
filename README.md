@@ -6,5 +6,6 @@ PhantomDB 👻 : Is batch software that will allow you to find information about
 <h2>
   Owner : 0xcastor
 </h2>
-<h>
+<hr>
+
 ![image](https://cdn.discordapp.com/attachments/1122465196825395280/1171488155111788624/image.png?ex=655cdc5d&is=654a675d&hm=90bd5d5c67d4fca20be01828ecb5733fa5eab72d244cadccc11d3c3b678181ea&)
