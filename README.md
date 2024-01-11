@@ -12,8 +12,9 @@ PhantomDB 👻 : Is batch software that will allow you to find information about
 </h2>
 <hr>
 
-New update : V2
 ![image](https://cdn.discordapp.com/attachments/1122465196825395280/1171488155111788624/image.png?ex=655cdc5d&is=654a675d&hm=90bd5d5c67d4fca20be01828ecb5733fa5eab72d244cadccc11d3c3b678181ea&)
+
+New update : V2
 
 ![image](https://cdn.discordapp.com/attachments/1122465196825395280/1171489284138750043/image.png?ex=655cdd6a&is=654a686a&hm=370819e88ed479a98ee6eb7cec212c9ca634374640589816d547f8812738d480&)
 
