@@ -21,4 +21,6 @@ New update : V2
 
 ![image](https://cdn.discordapp.com/attachments/1152946963461967872/1195090274830000230/image.png?ex=65b2b98d&is=65a0448d&hm=60026d35457a4cbf84ed576ea45bcf9d3ec79740094766a70dafea9986a9a6dc&)
 
+![image](https://cdn.discordapp.com/attachments/1152946963461967872/1195090832034902106/image.png?ex=65b2ba12&is=65a04512&hm=c020475fb7c6111293637b540ebb35327fc60d67add488f6895953e8122b00a6&)
+
 
